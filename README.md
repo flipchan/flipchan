@@ -12,7 +12,7 @@
 
 ## Areas of intestest:
 -  Cryptography, specially: Zero Knowledge, Blake, argon2 and Poseidon
--  Rust | I <3 Rust
+-  Rust | I 🦀 Rust
 -  OpenBSD
 -  Hiking, While not at the computer
 
