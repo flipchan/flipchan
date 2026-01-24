@@ -8,6 +8,10 @@
 * ❤️ I love Rust and neovim <3
 * ⚡ Fun fact: Editor of the Book escape into Happiness
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipchan&layout=donut)](https://github.com/flipchan)
+
+
 ## Areas of intestest:
 -  Cryptography, specially: Zero Knowledge, Blake, argon2 and Poseidon
 -  Rust | I <3 Rust
