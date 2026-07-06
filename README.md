@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 👂 I am flipchan
+* 👂 I am flipchan, from Internet relay chat to beyond!
 * 🔭 I’m currently working on Zero Knowledge and all things rust
 * 🌱 Active open source contributor for 10+ years   
 * 🤝 Sometimes I blog on: blog.rust.careers
